@@ -25,10 +25,9 @@ h2 {
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 37px;
   color:rgb(124, 31, 71);
   text-shadow: 6px 6px 8px rgb(141 0 75 / 75%);
-  padding: 15px 20px;
   text-align: center;
   align-content: center;
   transition: background-color 0.3s ease, transform 0.2s;
